@@ -33,7 +33,7 @@
 
   <h2>📫 How to reach me</h2>
   <ul>
-    <li><a href="https://satyapavankalyan-gude.netlify.app/" target="_blank">Portfolio</a></li>
+    <li><a href="https://spk-gude-portfolio.netlify.app/" target="_blank">Portfolio</a></li>
     <li><a href="mailto:satyapavan30@gmail.com">Email</a></li>
     <li><a href="https://www.linkedin.com/in/satya-pavan-kalyan-gude-9761231a1/" target="_blank">LinkedIn</a></li>
   </ul>
