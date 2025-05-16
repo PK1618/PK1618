@@ -23,6 +23,9 @@
   <h2>💬 Ask me about</h2>
   <ul>
     <li>JavaScript, Java, Python </li>
+    <li>Java</li>
+    <li>SpringBoot</li>
+    <li>MicroServices</li>
     <li>Node.js</li>
     <li>Express</li>
     <li>React</li>
