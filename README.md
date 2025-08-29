@@ -3,7 +3,7 @@
   <div>
     <img src="https://komarev.com/ghpvc/?username=pk1618&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </div>
-  <p>A professional Full-Stack Developer and Data Enthusiast.</p>
+  <p>A professional Software Engineer, Building Scalable, Secure, and User-Centric Applications. </p>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzBpNWx0djlnMDk5aGhnM3FtbTFydHJ4eDJ6OWluczN0eXB1ZnF3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y1vohJMVMtjSQxmUot/giphy.gif" 
        alt="Coding" height="300" width="800" />
 </div>
@@ -17,7 +17,7 @@
 <div>
   <h2>🔭 I’m currently working on</h2>
   <p>
-    A personal project of mine and pursuing a <strong>Machine Learning Certification</strong> by <strong>Google Cloud Platform</strong>.
+    A personal project on healthcare which is a strong and secured communication bridge between Doctors and Patients. With AI assistance. This solves hours of waiting at hospitals for appointments.</strong>.
   </p>
 
   <h2>💬 Ask me about</h2>
@@ -28,8 +28,12 @@
     <li>MicroServices</li>
     <li>Node.js</li>
     <li>Express</li>
-    <li>React</li>
+    <li>ReactJs</li>
+    <li>Angular</li>
     <li>C++</li>
+    <li>C#, .NET</li>
+    <li>AWS, Azure</li>
+    <li>CI/CD Pipelines</li>
     <li>Machine Learning, Deep Learning</li>
     <li>Data Analysis</li>
   </ul>
@@ -37,7 +41,7 @@
   <h2>📫 How to reach me</h2>
   <ul>
     <li><a href="https://spk-gude-portfolio.netlify.app/" target="_blank">Portfolio</a></li>
-    <li><a href="mailto:satyapavan30@gmail.com">Email</a></li>
+    <li><a href="mailto:satyapavan.k@careernb.com">Email</a></li>
     <li><a href="https://www.linkedin.com/in/satya-pavan-kalyan-gude-9761231a1/" target="_blank">LinkedIn</a></li>
   </ul>
 
