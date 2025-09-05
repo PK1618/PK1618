@@ -17,7 +17,7 @@
 <div>
   <h2>🔭 I’m currently working on</h2>
   <p>
-    A personal project on healthcare which is a strong and secured communication bridge between Doctors and Patients. With AI assistance. This solves hours of waiting at hospitals for appointments.</strong>.
+    A personal project on healthcare which is a strong and secured communication bridge between Doctors and Patients. With AI assistance. This solves hours of waiting at hospitals for appointments and I'm working on sending personalized notifications to patients set by respective doctors on their prescription usage or their diet plans</strong>.
   </p>
 
   <h2>💬 Ask me about</h2>
