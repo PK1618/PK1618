@@ -38,37 +38,6 @@
     <li>Data Analysis</li>
   </ul>
 
-  <h2>📫 How to reach me</h2>
-  <ul>
-    <li><a href="https://spk-gude-portfolio.netlify.app/" target="_blank">Portfolio</a></li>
-    <li><a href="mailto:satyapavan.k@careernb.com">Email</a></li>
-    <li><a href="https://www.linkedin.com/in/satya-pavan-kalyan-gude-9761231a1/" target="_blank">LinkedIn</a></li>
-  </ul>
-
-  <h2>⚡ Fun fact</h2>
-  <p>
-    I cook delicious Indian food and play badminton and cricket well. :-P
-  </p>
-</div>
-<div align="center">
-  <h2>📫 Connect with me</h2>
-  <p>
-    <a href="https://x.com/g_s_pavankalyan" target="_blank">Twitter</a> • 
-    <a href="https://www.linkedin.com/in/satya-pavan-kalyan-gude-9761231a1/" target="_blank">LinkedIn</a> • 
-    <a href="https://www.instagram.com/pavan_kalyan_g/" target="_blank">Instagram</a> • 
-  </p>
-  <p>
-    <a href="https://x.com/g_s_pavankalyan" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" width="40" height="40"/>
-    </a>
-    <a href="https://www.linkedin.com/in/satya-pavan-kalyan-gude-9761231a1/" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
-    </a>
-    <a href="https://www.instagram.com/pavan_kalyan_g/" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
-    </a>
-  </p>
-
   <h2>🛠️ Languages and Tools</h2>
   <p>
     <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap" />
