@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm Satya Pavan Kalyan Gude</h1>
+  <h1>Hi 👋, I'm Satya </h1>
   <div>
     <img src="https://komarev.com/ghpvc/?username=pk1618&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </div>
