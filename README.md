@@ -8,11 +8,11 @@
        alt="Coding" height="300" width="800" />
 </div>
 <br>
-<div align = "center">
+<!-- <div align = "center">
   <a href="https://www.linkedin.com/in/satya-pavan-kalyan-gude-9761231a1/" target="_blank">
     <img src="https://img.shields.io/badge/-Follow%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Follow" />
   </a>
-</div>
+</div> -->
 
 <div>
   <h2>🔭 I’m currently working on</h2>
